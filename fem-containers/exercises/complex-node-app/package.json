@@ -1,0 +1,17 @@
+{
+  "name": "complex-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "hapi-pino": "^10.1.0",
+    "pino-pretty": "^9.0.0"
+  }
+}
